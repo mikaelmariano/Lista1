@@ -10,7 +10,7 @@ public class Programa {
                 break;
         
                 case 2:
-                System.out.println("Voce Digitou o 2");
+                Ex2.executar();
                 break;
 
             default:
