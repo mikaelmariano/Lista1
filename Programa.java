@@ -53,6 +53,10 @@ public class Programa {
                 Ex12.executar();
                 break;
 
+                case 13:
+                Ex13.executar();
+                break;
+
             default:
                 break;
         }
