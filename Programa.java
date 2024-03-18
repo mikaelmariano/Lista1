@@ -49,6 +49,10 @@ public class Programa {
                 Ex11.executar();
                 break;
 
+                case 12:
+                Ex12.executar();
+                break;
+
             default:
                 break;
         }
