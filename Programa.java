@@ -77,6 +77,10 @@ public class Programa {
                 Ex18.executar();
                 break;
 
+                case 19:
+                Ex19.executar();
+                break;
+
             default:
                 break;
         }
